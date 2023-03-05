@@ -2,4 +2,4 @@
 primer repository
 formula
 
-codigo de suma 
+CALCULADORA DE SUMA
