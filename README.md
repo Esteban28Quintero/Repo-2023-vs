@@ -3,3 +3,6 @@ primer repository
 formula
 
 CALCULADORA DE SUMA
+
+
+este es el codigo de programacion de suma
