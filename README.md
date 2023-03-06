@@ -1,11 +1,21 @@
-# Repo-2023-vs
-primer repository
-formula
+import java.util.Scanner;
 
-int a ;
+public class SumaNumeros
+{
+    public static void main( String[] args )
+    {
+        int n1, n2, suma;
 
-int b ;
+        Scanner teclado = new Scanner( System.in );
 
-int suma;
+        System.out.print( "Introduzca primer número: " );
+        n1 = teclado.nextInt();
 
-suma= a + b;
+        System.out.print( "Introduzca segundo número: " );
+        n2 = teclado.nextInt();
+
+        suma = n1 + n2;
+
+        System.out.println( "La suma de " + n1 + " más " + n2 + " es " + suma + "." );
+    }
+}
